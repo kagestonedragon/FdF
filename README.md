@@ -21,7 +21,7 @@ make -C ~/fdf
 ### How to use
 
 ```
-./fdf <map>
+./fdf <maps>
 ```
 Run FdF with parameters:
-* <map> — input map (in text format)
+* <maps> — input map (in text format)
