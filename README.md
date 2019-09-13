@@ -4,7 +4,7 @@ This project is about creating a simplified graphic “wireframe” (“fils de 
 The coordinates of this landscape are stored in a file passed as a parameter to your program. 
 
 <p align="center">
-  <img src="/images/fdf.png" width="50%" alt="fdf"/>
+  <img src="/images/fdf.png" width="80%" alt="fdf"/>
 </p>
 
 ### How to install
