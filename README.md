@@ -24,4 +24,4 @@ make -C ~/fdf
 ./fdf <maps>
 ```
 Run FdF with parameters:
-* <maps> — input map (in text format)
+* `<map>` — input map (in text format)
