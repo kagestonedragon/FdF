@@ -36,7 +36,7 @@ Some maps you can find in `/maps` directory.
 * `projection matrix` — (in linear algebra and functional analysis, a projection is a linear transformation from a vector space to itself such that.)
 * `other things`
 
-Input file:
+#### Input file:
 
 ```
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ Input file:
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
 ```
-Result:
+#### Result:
 
 <p align="center">
   <img src="/images/result.gif" width="100%" alt="fdf"/>
