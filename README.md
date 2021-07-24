@@ -1,5 +1,7 @@
 # FdF
 
+`Проект реализовывался в рамках обучения в "Школе 21". Проект позволяет сформировать 3d-модель подаваемой на вход карты. Изначально имеется библиотека, которая позволяет делать 2 вещи: генерирует окно в операционой системе и позволяет в этом окне отрисовывать пиксель по координатам. При разработке пришлось погрузиться в изучение линейной алгебры.`
+
 This project is about creating a simplified graphic “wireframe” (“fils de fer” in french, hence the name of the project) representation of a relief landscape linking various points (x, y, z) via segments. 
 The coordinates of this landscape are stored in a file passed as a parameter to your program. <b>MacOS Only.</b>
 
